@@ -1,4 +1,4 @@
-# Flota Aut Manager
+# Flota Aut Manager - Szczepan Zieliński
 
 Prosty system do zarządzania flotą samochodową, który:
 1. Przechowuje informacje o autach, badaniach technicznych i ubezpieczeniach OC
